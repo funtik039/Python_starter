@@ -120,5 +120,5 @@ s[2::2]
 | `S.zfill(width)`|Делает длину строки не меньшей width, по необходимости заполняя первые символы нулями|
 | `S.ljust(width, fillchar=" ")`|Делает длину строки не меньшей width, по необходимости заполняя последние символы символом fillchar|
 | `S.rjust(width, fillchar=" ")`|Делает длину строки не меньшей width, по необходимости заполняя первые символы символом fillchar|
-| `S.format(*args, **kwargs)`|Форматирование строки|
+| `S.format(*args, **kwargs)`|[Форматирование строки](https://pythonworld.ru/osnovy/formatirovanie-strok-metod-format.html)|
 
